@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/kube-apiserver-amd64:v1.13.4
+FROM gcr.io/google-containers/kube-apiserver-arm64:v1.20.0
